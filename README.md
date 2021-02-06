@@ -2,7 +2,7 @@
 
 as seen below (highlighted in red) we originally had a broken link that took us no where. it has now been fixed.
 
-we also brought the main showcase photo from being a css item:
+i also brought the main showcase photo from being a css item:
 ```
 .hero img {
     background-image: url("images/digital-marketing-meeting.jpg);
@@ -14,7 +14,7 @@ into an html tag:
 ```
 <div class="hero">
         <img src="images/digital-marketing-meeting.jpg" alt="buisiness man in meeting"> 
-    </div> 
+</div> 
 ```
 moving that image into our html file changed the size of the photo to have more focus on it and gives more meaning to our link tags in our header.
 
